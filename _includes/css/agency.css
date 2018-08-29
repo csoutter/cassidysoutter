@@ -658,8 +658,8 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/IMG_1529.jpg');
-    background-position: center;
+    background-image: url('{{ site.baseurl }}/img/IMG_1620.jpg');
+    
     background-repeat: no-repeat;
 }
 

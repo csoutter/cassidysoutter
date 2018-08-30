@@ -185,7 +185,9 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #{{ site.data.template.color.secondary }};
+    /*color: #{{ site.data.template.color.secondary }};*/
+    /*TODO: here and in .navbar-brand I'm trying to change the value of "Cassidy Soutter in header"*/
+    color: #fff;
 }
 
 .navbar-default .navbar-collapse {

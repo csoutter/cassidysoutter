@@ -177,7 +177,8 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #{{ site.data.template.color.primary }};
+    /*color: #{{ site.data.template.color.primary }};*/
+    color: #fff;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -659,7 +660,7 @@ aside.clients img {
 section#contact {
     background-color: #222;
     background-image: url('{{ site.baseurl }}/img/IMG_1620.jpg');
-    
+    background-position: center;
     background-repeat: no-repeat;
 }
 
